@@ -10,3 +10,5 @@ solve("CODe") = "CODE". Uppercase characters > lowecase. Change only the "e" to 
 solve("coDE") = "code". Upper == lowercase. Change all to lowercase.
 
 More examples in test cases. Good luck!
+
+URL: https://www.codewars.com/kata/5b180e9fedaa564a7000009a/train/typescript
