@@ -1,5 +1,7 @@
-function templateFunction(x: number) {
-  return x / 2;
+export function countUppercase(input: string): number {
+  return [...input].filter(char => char === char.toUpperCase()).length;
 }
 
-export { templateFunction };
+export function countLowercase(input: string): number {
+  return 0;
+}

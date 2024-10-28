@@ -1,5 +1,2 @@
-//TODO
-- retrieve dockeruser name / password from env variables ✅
--  set docker username/password in GIT ✅
--  Make a snyk project?
--  Add Dockerfile to the cookie cutter ⚡
+[DONE] - Add function to determine amount of uppercase letters
+[IN PROGRESS] - Add function to determine amount of lowercase letters
